@@ -1,0 +1,7 @@
+C:\Users\Aleks\Downloads\SKB\GitTask.csproj\bin\Debug\GitTask.exe
+C:\Users\Aleks\Downloads\SKB\GitTask.csproj\bin\Debug\GitTask.pdb
+C:\Users\Aleks\Downloads\SKB\GitTask.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Aleks\Downloads\SKB\GitTask.csproj\obj\Debug\GitTask.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Downloads\SKB\GitTask.csproj\obj\Debug\GitTask.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Downloads\SKB\GitTask.csproj\obj\Debug\GitTask.exe
+C:\Users\Aleks\Downloads\SKB\GitTask.csproj\obj\Debug\GitTask.pdb
